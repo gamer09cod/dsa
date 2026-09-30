@@ -26,11 +26,11 @@
             return maxArea;
         }
 
-        public static void Main(String[] args)
+        /*public static void Main(String[] args)
         {
             ContainerWithMostWater mostWater = new ContainerWithMostWater();
             int[] heights = [1,8,6,2,5,4,8,3,7];
             Console.WriteLine(mostWater.MaxArea(heights));
-        }
+        }*/
     }
 }
