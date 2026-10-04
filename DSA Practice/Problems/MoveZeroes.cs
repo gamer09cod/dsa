@@ -1,4 +1,4 @@
-namespace DSA_Practice;
+namespace DSA_Practice.Problems;
 
 public class MoveZeroes
 {

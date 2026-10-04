@@ -1,4 +1,4 @@
-﻿namespace DSA_Practice;
+﻿namespace DSA_Practice.Problems;
 
 
 public class ThreeSum {
@@ -49,10 +49,10 @@ public class ThreeSum {
         return result;
     }
     
-    public static void Main(String[] args)
+    /*public static void Main(String[] args)
     {
         ThreeSum threeSum = new ThreeSum();
         int[] nums = [-1,0,1,2,-1,-1];
         Console.WriteLine(threeSum.CalculateThreeSum(nums));
-    }
+    }*/
 }
